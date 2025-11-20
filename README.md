@@ -22,3 +22,7 @@ project-sql-analysis/
 ├── database.db # Banco de dados criado (SQLite)
 ├── queries.sql # Consultas para análise
 └── README.md # Documentação do projeto
+
+
+
+
