@@ -15,3 +15,10 @@ Aqui eu criei um banco de dados simples para simular um pequeno ecommerce e prat
 
 ##  Estrutura do Projeto
 
+project-sql-analysis/
+│
+├── create_database.sql # Script SQL com tabelas e dados
+├── create_db.py # Script Python para gerar o database.db
+├── database.db # Banco de dados criado (SQLite)
+├── queries.sql # Consultas para análise
+└── README.md # Documentação do projeto
