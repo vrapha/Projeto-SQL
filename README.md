@@ -25,4 +25,16 @@ project-sql-analysis/
 
 
 
+O que Aprendi:
 
+Criar e estruturar um banco relacional simples
+
+Inserir dados manualmente com SQL
+
+Criar consultas úteis para análise de dados
+
+Conectar um banco SQLite no VS Code
+
+Integrar SQL + Python para automação
+
+Criar um projeto organizado para portfólio
